@@ -137,27 +137,6 @@ All regions are labelled on the plot for easy identification.
 
 ---
 
-## Repository Structure
-
-```
-real_sector_employment/
-│
-├── dataset.xlsx                 # Raw data (6 sheets: one per indicator)
-├── analysis.ipynb               # Main Jupyter notebook with all code
-├── README.md                    # This file
-├── requirements.txt             # Python dependencies
-└── images/                      # Generated plots (optional)
-    ├── boxplots_original.png
-    ├── boxplots_cleaned.png
-    ├── dendrogram.png
-    ├── cluster_profiles.png
-    ├── pca_regions.png
-    ├── correlation_heatmaps.png
-    └── granger_results.png
-```
-
----
-
 ## Skills Demonstrated
 
 ### Data Science & Econometrics
